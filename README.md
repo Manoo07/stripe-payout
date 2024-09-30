@@ -1,4 +1,3 @@
-```markdown
 # Project Setup
 
 ## Steps to Run the Project Locally
